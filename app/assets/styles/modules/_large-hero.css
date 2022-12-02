@@ -12,14 +12,14 @@
     left: 0;
     width: 100%;
     text-align: center;
-    //color: red;
+    color: red;
 }
     
 
 
 .large-hero__title{
     font-weight: 300;
-    color: #2f5572;
+    color: #a5531c;
     margin: 0;
     font-size: 1.5rem;
     @mixin atSmall {
@@ -31,13 +31,13 @@
 
 .large-hero__subtitle{
         font-weight: 300;
-        color: #2f5572;
+        color: #db6f31;
         font-size: 2.9rem;
         margin: 0;
 }
 .large-hero__descriptsion{
   
-    color: #FFF;
+    color: rgb(240, 34, 34);
     font-size: 1.875rem;
     font-weight: 100;
     text-shadow: 2px 2px 0 rgba(0,0,0, 0.2);
