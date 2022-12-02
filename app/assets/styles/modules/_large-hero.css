@@ -19,7 +19,7 @@
 
 .large-hero__title{
     font-weight: 300;
-    color: #a5531c;
+    color: #1c41a5;
     margin: 0;
     font-size: 1.5rem;
     @mixin atSmall {
@@ -31,7 +31,7 @@
 
 .large-hero__subtitle{
         font-weight: 300;
-        color: #db6f31;
+        color: #bf31db;
         font-size: 2.9rem;
         margin: 0;
 }

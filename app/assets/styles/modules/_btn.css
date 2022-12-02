@@ -1,13 +1,13 @@
 
 .my_btn{ 
-    background-color:#f012f0;  
-    color: rgb(26, 59, 245);    
+    background-color:#4388a8;  
+    color: rgb(253, 253, 253);    
     text-decoration: none;
     padding: .75rem;
     display: inline-block;
     
 }
 .btn--orange {
-    background-color: #41d541;
+    background-color: #d56b41;
   
 }
